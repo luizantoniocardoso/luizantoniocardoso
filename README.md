@@ -20,9 +20,9 @@ Sou um entusiasta de tecnologia que adora mergulhar em desafios criativos e tran
 
 Aqui estão alguns dos meus projetos mais impressionantes:
 
-1. DocSentry (https://github.com/Luiz-Antonio-Cardoso/DocSentry) - um projeto em Next.js 13 de CRUD de arquivos e usuários sendo feito juntamente com uma equipe de 5 pessoas.
-2. FlexBlog (https://github.com/Luiz-Antonio-Cardoso/FlexBlog) - Um blog feito inteiramente em CSS Flexbox, sendo ele responsivo.
-3. StockSense (https://github.com/Luiz-Antonio-Cardoso/stock-front) - Um sistema de controle de estoque inteiro back-front feito em React, TypeScript e Tailwind, usando Composition Pattern, Zod para validações e tipagens dinâmicas, tw-elements para o design moderno e responsivo.
+1. DocSentry (https://github.com/luizantoniocardoso/DocSentry) - um projeto em Next.js 13 de CRUD de arquivos e usuários sendo feito juntamente com uma equipe de 5 pessoas.
+2. FlexBlog (https://github.com/luizantoniocardoso/FlexBlog) - Um blog feito inteiramente em CSS Flexbox, sendo ele responsivo.
+3. StockSense (https://github.com/luizantoniocardoso/stock-front) - Um sistema de controle de estoque inteiro back-front feito em React, TypeScript e Tailwind, usando Composition Pattern, Zod para validações e tipagens dinâmicas, tw-elements para o design moderno e responsivo.
 
 ## Estatísticas do GitHub
 
