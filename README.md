@@ -24,9 +24,6 @@ Aqui estão alguns dos meus projetos mais impressionantes:
 2. DocSentry (https://github.com/luizantoniocardoso/DocSentry) - um projeto em Next.js 13 de CRUD de arquivos e usuários sendo feito juntamente com uma equipe de 5 pessoas.
 3. FlexBlog (https://github.com/luizantoniocardoso/FlexBlog) - Um blog feito inteiramente em CSS Flexbox, sendo ele responsivo.
 
-
-## Estatísticas do GitHub
-
 ## Entre em Contato
 
 Sinta-se à vontade para entrar em contato comigo para discutir colaborações, oportunidades de projeto ou apenas para uma boa conversa sobre desenvolvimento!
