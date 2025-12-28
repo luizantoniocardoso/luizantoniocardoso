@@ -20,7 +20,7 @@ Sou um entusiasta de tecnologia que adora mergulhar em desafios criativos e tran
 
 Aqui estão alguns dos meus projetos mais impressionantes:
 
-1. StockSense (https://github.com/luizantoniocardoso/stock-front) - Um sistema de controle de estoque inteiro back-front feito em React, TypeScript e Tailwind, usando Composition Pattern, Zod para validações e tipagens dinâmicas, tw-elements para o design moderno e responsivo.
+1. Gestor Financeiro (https://github.com/luizantoniocardoso/gestor-financeiro) – Sistema de gestão financeira pessoal em React, TypeScript e Firebase, com controle de cartões, despesas fixas e variáveis, categorias e métricas mensais.
 2. DocSentry (https://github.com/luizantoniocardoso/DocSentry) - um projeto em Next.js 13 de CRUD de arquivos e usuários sendo feito juntamente com uma equipe de 5 pessoas.
 3. FlexBlog (https://github.com/luizantoniocardoso/FlexBlog) - Um blog feito inteiramente em CSS Flexbox, sendo ele responsivo.
 
