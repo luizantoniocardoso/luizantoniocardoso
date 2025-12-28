@@ -13,7 +13,7 @@ Sou um entusiasta de tecnologia que adora mergulhar em desafios criativos e tran
 
 - JavaScript, TypeScript, React, Angular, Python, AstroJS, Next.js
 - UI/UX Design, Desenvolvimento Responsivo
-- Otimização de Desempenho Web, Testes de Unidade
+- Otimização de Desempenho Web
 - Integração de APIs RESTful, Git/GitHub
 
 ## Projetos Destacados
